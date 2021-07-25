@@ -1,0 +1,39 @@
+#Lets create 4 Applications:
+#cars
+#Accounts : This is Registration,Login,Logout
+#Pages--->Team: Create an internal Team of Executives
+#Contacts-->Details of the customers sending the message
+
+
+#Let's Create the Cars Class:
+#The variables are:
+#car_title,state,city,color,model,year,condition,price,desciption,
+#car_photo,car_photo_1,car_photo_2,car_photo_3,car_photo_4,
+#features,body_style,engine,transmission,interior,
+#miles,doors,passangers,vin_no,mileage,fuel_type,
+#no_of_owners,is_featured,created_date
+
+URLS(CARS):
+#Show all the cars
+#search: Function
+#Show specific cars with id
+
+
+Lets' Create the Pages:
+CLass Team:
+first_name,last_name,designation,photo,facebook,twitter_link,
+#created_date
+
+URLS:home,about
+
+Accounts:
+
+URLS:
+login,register,logout,dashboard
+
+#Contact:
+first_name,last_name,car_id,customer_need,car_title,city,
+state,email,phone,message,user_id,create_date
+
+#URLS
+
